@@ -20,7 +20,7 @@ env:
   IMAGE_NAME: android-sdk
 
 jobs:
-  build-31:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: read
